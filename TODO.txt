@@ -1,0 +1,29 @@
+// TODO: Implement DELETE endpoint for removing a player's data
+// - Create a new route for handling DELETE requests
+// - Write a function in PlayerController to handle deleting player data
+// - Add appropriate SQL query in PlayerModel to delete player from the database
+
+// TODO: Implement PUT endpoint for updating player's data
+// - Create a new route for handling PUT requests
+// - Write a function in PlayerController to handle updating player data
+// - Add appropriate SQL query in PlayerModel to update player's data in the database
+
+// TODO: Add UI support for displaying player data
+// - Create a new route in Express to handle GET requests for player data on the UI
+// - Serve a simple HTML page that displays the player data
+// - Use JavaScript or a front-end framework to fetch player data from the server
+// - Display the retrieved player data on the UI
+
+// TODO: Enhance error handling and validation
+// - Improve error handling in the PlayerController methods
+// - Validate incoming data from POST and PUT requests
+// - Send appropriate error responses with status codes and error messages
+
+// TODO: Add unit tests for new endpoints and UI integration
+// - Write Jest tests for the newly added DELETE and PUT endpoints in PlayerController
+// - Write tests for the new UI route and data fetching functionality
+// - Make sure tests cover different scenarios, including edge cases
+
+// TODO: Improve logging and debugging
+// - Add more informative log messages in PlayerController and PlayerModel
+// - Use a logging library to manage and format logs effectively
